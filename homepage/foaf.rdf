@@ -7,8 +7,8 @@
   <foaf:Person>
     <foaf:homepage rdf:resource="https://mgbetegan.github.io/homepage"/>
     <foaf:givenName>Merveille</foaf:givenName>
-    <foaf:lastName>Gbetegan</foaf:familyName>
-    <foaf:nick>mgbetegan</foa:nick>
+    <foaf:familyName>Gbetegan</foaf:familyName>
+    <foaf:nick>mgbetegan</foaf:nick>
   </foaf:Person>
 </rdf:RDF>
 
