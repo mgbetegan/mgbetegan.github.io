@@ -31,4 +31,15 @@
             </body>
         </html>
     </xsl:template>
+
+
+    <xsl:template match="rdf:RDF/foaf:knows/foaf:Person">
+      <table>
+          <tr>
+              <td>Mon camarade est </td>
+              <td> <td> <xsl:value-of select="rdfs:seeAlso/@rdf:ressource"/></td></td>
+          </tr>
+      </table>
+    </xsl:template>
+
 </xsl:stylesheet>

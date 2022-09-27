@@ -10,6 +10,11 @@
     <foaf:familyName>Gbetegan</foaf:familyName>
     <foaf:nick>mgbetegan</foaf:nick>
   </foaf:Person>
+
+  <foaf:Person rdf:nodeID="Vincent">
+     <foaf:name>Vicent Grenet</foaf:name>
+     <rdfs:seeAlso rdf:resource="https://d-rayven.github.io/foaf.rdf"/>
+   </foaf:Person>
 </rdf:RDF>
 
 
