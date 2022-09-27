@@ -5,12 +5,12 @@
   xmlns:foaf="http://xmlns.com/foaf/0.1/"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <foaf:Person>
-    <foaf:homepage rdf:resource="https://merveille.gbetegan.github.io/homepage"/>
+    <foaf:homepage rdf:resource="https://mgbetegan.github.io/homepage"/>
     <foaf:givenName>Merveille</foaf:givenName>
     <foaf:lastName>Gbetegan</foaf:familyName>
     <foaf:nick>mgbetegan</foa:nick>
-
   </foaf:Person>
 </rdf:RDF>
+
 
 
